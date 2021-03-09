@@ -1,4 +1,4 @@
-# MAMMUT-STARTHACK21
+# START Hack 2021 - Mammut Case
 
 ### Case Introduction
 Please give a short introduction to your case.
