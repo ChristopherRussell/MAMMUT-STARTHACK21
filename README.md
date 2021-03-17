@@ -39,6 +39,11 @@ Each team should provide:
 
 Mammut IS interested in developing submissions of high quality further. If members of the team are happy to be contacted, please leave contact details easily accessible.
 
+### Mobile Application
+
+Download the Mobile App via your Smartphone.
+Enter: climbax.mammut.com/app into your browser to get to the relevant store.
+
 ### Case Pitch
 
 https://vimeo.com/520868355/99615258dd
@@ -67,13 +72,17 @@ A `dataformat.md` document describes the hierarchical HDF5 format used for the s
 
 ### Judging Criteria
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
-@stefan
+@florian
 
 ### Point of Contact
-List all available mentors here.
+Cassim Ladha (Data Analysis + Mobile Application "Mammut Climb" Lead)
+Stefan Hauser (Project Manager Climbax)
+Florian Eggert (Start Hack Coordinator)
 
 ### Time Slots at the Booth
 List the expected times of availability at the booth here.
+@florian
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
+@florian
