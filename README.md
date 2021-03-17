@@ -40,12 +40,12 @@ Each team should provide:
 Mammut IS interested in developing submissions of high quality further. If members of the team are happy to be contacted, please leave contact details easily accessible.
 
 ### Case Pitch
-Insert your Pitch Video or Slides here
-@stefan
+
+https://vimeo.com/520868355/99615258dd
 
 ### Deep Dive Slides
-Insert materials from your Deep Dives here
-@stefan
+
+[Mammut Climbax - Deep Dive.pdf](https://github.com/START-Global/MAMMUT-STARTHACK21/files/6159513/Mammut.Climbax.-.Deep.Dive.pdf)
 
 ### Further Information
 Three example climbs are included; a traverse, a vertical climb and an overhang. For each climb there is included:
