@@ -84,5 +84,11 @@ List the expected times of availability at the booth here.
 @florian
 
 ### Prize
-Let the participants know what will be expecting the winning Team!
-@florian
+The winning team will get to choose from 4 Mammut products:
+- Barryvox S package - Avalanche safety for those who love ski touring
+- Photics thermo jacket - ISPO award winning thermo jacket
+- Perform down bag - Down sleeping bag 
+- Climbax climbing tracker - World's first climbing tracker 
+
+Find out more about the prizes in our case teaser on Discord:
+https://discord.com/channels/807632986370998332/819528639677726722/819953479112065024
