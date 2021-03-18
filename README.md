@@ -71,8 +71,14 @@ A `dataformat.md` document describes the hierarchical HDF5 format used for the s
 
 
 ### Judging Criteria
-Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
-@florian
+We will be evaluating the solutions for our challenge based on the following criteria:
+- Design // What does the consumer see? How well designed/intuitive is the experience?
+- Viability // What is the added value for the consumer? Does it fullfil a real need?
+- Complexity / Technical sophistication // How technically impressive is the solution? Are appropriate services/technologies used?
+- Feasibility // How usable is the result? Does it scale for productive usage?
+- Creativity/Innovation // How creative/innovative is the solution?
+- Presentation // How well was the hack result presented?
+
 
 ### Point of Contact
 Cassim Ladha (Data Analysis + Mobile Application "Mammut Climb" Lead)
@@ -80,8 +86,15 @@ Stefan Hauser (Project Manager Climbax)
 Florian Eggert (Start Hack Coordinator)
 
 ### Time Slots at the Booth
-List the expected times of availability at the booth here.
-@florian
+We will be available at the booth for questions on our case at
+Friday, March 19th, 22h-23h
+
+Saturday, March 20th, 10h-11h
+Saturday, March 20th, 13h-13.30h
+Saturday, March 20th, 16h-16.30h
+Saturday, March 20th, 19h-20h
+
+Sunday, March 21st, 8h-9h
 
 ### Prize
 The winning team will get to choose from 4 Mammut products:
