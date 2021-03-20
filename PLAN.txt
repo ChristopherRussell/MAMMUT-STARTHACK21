@@ -1,0 +1,7 @@
+Visualise vertical distance travelled in an animated bar chart, in sync with video.
+    - create animated bar chart
+    - figure out how to overlap it on a video
+    - synchronise with video (or a shortened version of video)
+    - improve aesthetics
+
+Visualise movement from accelerometer data
