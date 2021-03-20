@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<timeseries date="2021-03-16T22:21:10-00:00" version="1.0">
+<timeseries date="2021-03-20T15:25:38+01:00" version="1.0">
     <tracksource sample-type="Continuous Rate"
-        source-url="file:///Volumes/GoogleDrive/My Drive/CASCOM/Projects/ClimbAX/Engineering/Hackathon/1345/overhang.csv"
+        source-url="file:///expansion1/starthack/MAMMUT-STARTHACK21/data/overhang/overhang.csv"
         time-column="0" time-origin="179163">
         <property key="provider" value="mpi.eudico.client.annotator.timeseries.csv.CSVServiceProvider"/>
         <track derivative="0" name="Left_AP">

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeseries date="2021-03-20T15:34:08+01:00" version="1.0">
+    <tracksource sample-type="Unknown" source-url="file:///expansion1/starthack/MAMMUT-STARTHACK21/data/traverse/traverse.csv">
+        <property key="provider" value="mpi.eudico.client.annotator.timeseries.csv.CSVServiceProvider"/>
+    </tracksource>
+</timeseries>
