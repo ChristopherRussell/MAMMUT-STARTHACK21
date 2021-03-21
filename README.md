@@ -4,3 +4,5 @@ We provide a jupyer notebook script which takes sensor data and creates various 
 - A live-growing graph of your total climbed height;
 - Live data in text form regarding your total hand moves, and time holding with each hand;
 - A visualisation of the magnitude of the 3d-acceleration reading from each hand (it was difficult for us to sync this data with the video for our demo, as it's not clear when the climb starts.)
+
+See our demo: https://youtu.be/8xSMlNsWfyM
